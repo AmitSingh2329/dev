@@ -1,1 +1,1 @@
-select * from Blinkit
+select * from Blinkit iugibhkjnkj
